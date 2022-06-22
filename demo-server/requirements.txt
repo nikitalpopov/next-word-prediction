@@ -9,7 +9,7 @@ Flask == 1.1.1
 nltk == 3.4.5
 
 # prepare.py: 3
-numpy == 1.18.1
+numpy == 1.22.0
 
 # prepare.py: 4
 # server.py: 3
